@@ -1,0 +1,7 @@
+com.android.example.wordlistsql.test.app-androidTest-0 C:\Users\alexc\AndroidStudioProjects\WordListSql-Starter\app\build\generated\res\resValues\androidTest\debug
+com.android.example.wordlistsql.test.app-androidTest-1 C:\Users\alexc\AndroidStudioProjects\WordListSql-Starter\app\build\generated\res\rs\androidTest\debug
+com.android.example.wordlistsql.test.app-mergeDebugAndroidTestResources-2 C:\Users\alexc\AndroidStudioProjects\WordListSql-Starter\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.android.example.wordlistsql.test.app-mergeDebugAndroidTestResources-3 C:\Users\alexc\AndroidStudioProjects\WordListSql-Starter\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.android.example.wordlistsql.test.app-merged_res-4 C:\Users\alexc\AndroidStudioProjects\WordListSql-Starter\app\build\intermediates\merged_res\debugAndroidTest
+com.android.example.wordlistsql.test.app-androidTest-5 C:\Users\alexc\AndroidStudioProjects\WordListSql-Starter\app\src\androidTest\res
+com.android.example.wordlistsql.test.app-androidTestDebug-6 C:\Users\alexc\AndroidStudioProjects\WordListSql-Starter\app\src\androidTestDebug\res

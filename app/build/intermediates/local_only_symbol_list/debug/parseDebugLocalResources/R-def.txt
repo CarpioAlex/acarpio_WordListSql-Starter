@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color buttonLabel
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+dimen big_padding
+dimen button_height
+dimen divider_height
+dimen small_padding
+drawable ic_add_24dp
+id action_search
+id button_save
+id delete_button
+id edit_button
+id fab
+id recyclerview
+id search
+id searchResult
+id word
+layout activity_edit_word
+layout activity_main
+layout activity_search
+layout wordlist_item
+menu main_menu
+mipmap ic_launcher
+string app_name
+string button_delete
+string button_edit
+string button_new
+string button_save
+string empty_not_saved
+string hint_definition
+string hint_word
+style AppTheme
+style word_title

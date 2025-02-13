@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\alexc\\.gradle\\daemon\\8.7\\com.android.example.wordlistsql.app-debug-31:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\alexc\\.gradle\\daemon\\8.7\\com.android.example.wordlistsql.app-main-33:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\alexc\\.gradle\\daemon\\8.7\\com.android.example.wordlistsql.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\alexc\\.gradle\\daemon\\8.7\\com.android.example.wordlistsql.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexc\\.gradle\\daemon\\8.7\\com.android.example.wordlistsql.app-debug-31:\\drawable_ic_add_24dp.xml.flat",
+        "source": "C:\\Users\\alexc\\.gradle\\daemon\\8.7\\com.android.example.wordlistsql.app-main-33:\\drawable\\ic_add_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexc\\.gradle\\daemon\\8.7\\com.android.example.wordlistsql.app-debug-31:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\alexc\\.gradle\\daemon\\8.7\\com.android.example.wordlistsql.app-main-33:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\alexc\\.gradle\\daemon\\8.7\\com.android.example.wordlistsql.app-debug-31:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\alexc\\.gradle\\daemon\\8.7\\com.android.example.wordlistsql.app-main-33:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexc\\.gradle\\daemon\\8.7\\com.android.example.wordlistsql.app-debug-31:\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\alexc\\.gradle\\daemon\\8.7\\com.android.example.wordlistsql.app-main-33:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexc\\.gradle\\daemon\\8.7\\com.android.example.wordlistsql.app-debug-31:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\alexc\\.gradle\\daemon\\8.7\\com.android.example.wordlistsql.app-main-33:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\alexc\\.gradle\\daemon\\8.7\\com.android.example.wordlistsql.app-debug-31:\\layout_activity_edit_word.xml.flat",
+        "source": "C:\\Users\\alexc\\.gradle\\daemon\\8.7\\com.android.example.wordlistsql.app-main-33:\\layout\\activity_edit_word.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexc\\.gradle\\daemon\\8.7\\com.android.example.wordlistsql.app-debug-31:\\layout_wordlist_item.xml.flat",
+        "source": "C:\\Users\\alexc\\.gradle\\daemon\\8.7\\com.android.example.wordlistsql.app-main-33:\\layout\\wordlist_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexc\\.gradle\\daemon\\8.7\\com.android.example.wordlistsql.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\alexc\\.gradle\\daemon\\8.7\\com.android.example.wordlistsql.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.android.example.wordlistsql.app-debug-31:/layout_activity_search.xml.flat",
+        "source": "com.android.example.wordlistsql.app-main-33:/layout/activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexc\\.gradle\\daemon\\8.7\\com.android.example.wordlistsql.app-debug-31:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\alexc\\.gradle\\daemon\\8.7\\com.android.example.wordlistsql.app-main-33:\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
